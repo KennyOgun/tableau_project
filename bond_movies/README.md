@@ -1,6 +1,6 @@
 
 
-** EDA on James Bond Movie Analysis using Python and Tableau**
+# ** EDA on James Bond Movie Analysis using Python and Tableau**
 
 📋 **Overview**
     
